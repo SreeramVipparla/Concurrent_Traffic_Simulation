@@ -2,7 +2,7 @@
 
 ## Introduction
 
- This project involves the building of  a multithreaded traffic simulator using a real urban map.The project runs each vehicle on a separate thread, and manage intersections to facilitate traffic flow and avoid collisions. The project uses a majority of concurrency concepts.
+The project that I have created  involves the building of a multithreaded traffic simulator using a real urban map.The project runs each vehicle on a separate thread, and manage intersections to facilitate traffic flow and avoid collisions. I have used a majority of concurrency concepts while working on the project.
 
 <img src="data/traffic_simulation.gif"/>
 
