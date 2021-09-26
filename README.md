@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this concurrent traffic simulation project I have developed a multithreaded traffic simulator using a real urban map.This project runs each vehicle on a separate thread, and manage intersections to facilitate traffic flow and avoid collisions. I have used a majority of concurrency concepts in C++ while working on the project.
+In this concurrent traffic simulation project I have developed a multithreaded traffic simulator using a real urban map. This project runs each vehicle on a separate thread, and manage intersections to facilitate traffic flow and avoid collisions. I have used a majority of concurrency concepts in C++ while working on the project.
 
 <img src="data/traffic_simulation.gif"/>
 
