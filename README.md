@@ -1,4 +1,4 @@
-# Concurrent Traffic Simulation
+# Concurrent Traffic Simulation Project
 
 ## Introduction
 
